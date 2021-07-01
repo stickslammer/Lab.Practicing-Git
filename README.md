@@ -1,2 +1,2 @@
 
-This is a repo for learning git
+This is a repo for learning git and having fun coding, and stuff...
